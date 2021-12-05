@@ -1,0 +1,19 @@
+{
+    "PRODUCCION": {
+                    "USER": "root"
+                    , "PASS":""
+                    , "HOST":"localhost"
+                    , "DATABASE":"etlpedidos"
+                    , "RUTA_DOWNLOAD": "C:/Users/Roberto/Desktop/Nueva carpeta/ETL/extract",
+                     "URL_DATOS_DOWNLOAD": "https://github.com/iperezutl/ETLPre/raw/main/ETL/datos.rar"
+                }
+                
+    , "DESARROLLO": {
+                    "USER": "root"
+                    , "PASS":""
+                    , "HOST":"localhost"
+                    , "DATABASE":"etlpedidos"
+                    , "RUTA_DOWNLOAD": "C:/Users/Roberto/Desktop/Nueva carpeta/ETL/extract",
+                     "URL_DATOS_DOWNLOAD": "https://github.com/iperezutl/ETLPre/raw/main/ETL/datos.rar"
+                }
+}
